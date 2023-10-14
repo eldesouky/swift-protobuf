@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary = 'Swift Protobuf Runtime Library'
   s.homepage = 'https://github.com/apple/swift-protobuf'
   s.author = 'Apple Inc.'
-  s.source = { :git => 'https://github.com/eldesouky/swift-protobuf.git', :branch => 'master' }
+  s.source = { :git => 'https://github.com/eldesouky/swift-protobuf.git', :branch => 'main' }
 
   s.requires_arc = true
   s.ios.deployment_target = '11.0'
